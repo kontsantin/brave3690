@@ -4,4 +4,4 @@
 > git push - отправить изменения в удаленный репозиторий 
 Привет мы пробуем работу с удаленным репозиторием =)
 
-## [Сcылка на мой репозитроий](https://github.com/kontsantin/version_control/blob/main/instructions.md)
+## [Сcылка на мой репозитроий Kontsantin](https://github.com/kontsantin/version_control/blob/main/instructions.md)
